@@ -1,6 +1,8 @@
 """
-    Portfolio Valuation via Linear Transformations
-    ================================================
+    ================================================================
+    I. Portfolio Valuation via Linear Transformations
+    ================================================================
+    
     This script demonstrates a core application of linear algebra in financial modeling:
         computing the daily USD equity of a multi-asset forex portfolio using matrix-vector
         multiplication.
